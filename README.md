@@ -1,8 +1,7 @@
 # Progressive Web Application: Text Editor 
   by Brad Moleterno    ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-  Our challenge J.A.T.E is a Progressive Web Application (PWA) that runs in the browser, offline and can be installed locally to your machine. This application features a number of data persistence techniques, insuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. This application is deployed to the internet using Render.
-N/A
+Our challenge for this week is a text editor affectionately entitled Just Another Text editor (J.A.T.E), It is our first attempt to create a Progressive Web Application (PWA). J.A.T.E runs in the browser via , offline and can be installed locally. This application features several data persistence techniques, ensuring the application runs regardless of browser supported function. J.A.T.E uses an Indexed DB database and the idb package. This application is deployed to the internet using Render. 
 ## Table of Contents
 * [Installation](#installation)
 * [How to Use This Application](#how-to-use-this-application)
