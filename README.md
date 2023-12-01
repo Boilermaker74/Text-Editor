@@ -25,6 +25,10 @@ When `npm run start` from the root directory the application starts up the backe
 ![Alt text](./assets/2.png)
 ![Alt text](./assets/3.png)
 
+The application, accessed from localhost 3000.
+
+![Alt text](./assets/4.png)
+
 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
