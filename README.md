@@ -24,7 +24,7 @@ Xandromus and Stellalph
 ## Testing
 N/A
 ## Features
-S
+The application will can function offline.
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs-blue.svg)
