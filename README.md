@@ -35,8 +35,13 @@ The application, accessed from Render at https://text-editor-jeni.onrender.com.
 
 The desktop icon after the install button is clicked.
 
-![Alt text](./assets/5.png)
+![Alt text](./assets/6.png)
 
+The desktop icon after the install button is clicked.
+
+![Alt text](./assets/7.png)
+
+![Alt text](./assets/8.png)
 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
