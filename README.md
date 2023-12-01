@@ -33,7 +33,7 @@ The application, accessed from Render at https://text-editor-jeni.onrender.com.
 
 ![Alt text](./assets/5.png)
 
-The desktop icon after the install button is clicked.
+The application, accessed the locally installed application.
 
 ![Alt text](./assets/6.png)
 
