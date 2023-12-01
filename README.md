@@ -30,6 +30,9 @@ The application, accessed from localhost 3000.
 ![Alt text](./assets/4.png)
 
 The application, accessed from Render at https://text-editor-jeni.onrender.com.
+
+![Alt text](./assets/5.png)
+
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
