@@ -16,7 +16,7 @@ Our challenge for this week is a text editor affectionately entitled Just Anothe
 ## Installation
 Install
 ## How to Use This Application:
-use
+This Application is Deployed to the internet using Render. The URL is https://text-editor-jeni.onrender.com/
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
