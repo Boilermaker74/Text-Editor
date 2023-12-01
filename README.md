@@ -29,7 +29,7 @@ The application, accessed from localhost 3000.
 
 ![Alt text](./assets/4.png)
 
-
+The application, accessed from Render at https://text-editor-jeni.onrender.com.
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
@@ -40,7 +40,7 @@ N/A
 The application can function offline.
 ## Languages and Technologies Used
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
-![Github license](https://img.shields.io/badge/Technology-NodeJs-blue.svg)
+![Github license](https://img.shields.io/badge/Technology-NodeJs,Render-blue.svg)
 ## Dependencies
    code-mirror-themes version 1.0.0 
 
