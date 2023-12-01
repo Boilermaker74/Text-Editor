@@ -33,7 +33,7 @@ The application, accessed from Render at https://text-editor-jeni.onrender.com.
 
 ![Alt text](./assets/5.png)
 
-The application, accessed the locally installed application.
+The application, accessed from the locally installed application.
 
 ![Alt text](./assets/6.png)
 
