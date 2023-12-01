@@ -14,7 +14,7 @@ Our challenge for this week is a text editor affectionately entitled Just Anothe
 * [Questions](#questions)
 
 ## Installation
-This application is deployed to [Render](https://text-editor-jeni.onrender.com). To run the application locally, clone the git hub repository at https://github.com/Boilermaker74/Text-Editor
+This application is deployed to [Render](https://text-editor-jeni.onrender.com). To run the application locally, the first step is to clone the git hub repository at https://github.com/Boilermaker74/Text-Editor. Next, in the command terminal, go to the root directory of the application. Type npm install and enter. After the packages install, type npm run start and the application should deploy on local host 3000.
 ## How to Use This Application:
 This Application is Deployed to the internet using Render. The URL is https://text-editor-jeni.onrender.com/
 ## Licenses
