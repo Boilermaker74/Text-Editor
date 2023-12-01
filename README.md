@@ -21,6 +21,11 @@ This Application is Deployed to the internet using Render. The URL is https://te
 ![Alt text](./assets/1.png)
 
 When `npm run start` from the root directory the application starts up the backend and serve the client at local host 3000.
+
+![Alt text](./assets/2.png)
+![Alt text](./assets/3.png)
+
+
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
