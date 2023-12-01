@@ -14,7 +14,7 @@ Our challenge for this week is a text editor affectionately entitled Just Anothe
 * [Questions](#questions)
 
 ## Installation
-This application is deployed to Heroku.https://text-editor-jeni.onrender.com/
+This application is deployed to [Heroku](https://text-editor-jeni.onrender.com).
 ## How to Use This Application:
 This Application is Deployed to the internet using Render. The URL is https://text-editor-jeni.onrender.com/
 ## Licenses
