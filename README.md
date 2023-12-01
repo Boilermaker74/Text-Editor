@@ -29,6 +29,16 @@ S
 ![Github license](https://img.shields.io/badge/Language-HTML,CSS,JavaScript-blue.svg)
 ![Github license](https://img.shields.io/badge/Technology-NodeJs-blue.svg)
 ## Dependencies
-dependancies
+   code-mirror-themes version 1.0.0 
+
+   Idb version 6.1.2 
+
+   Express version 4.17.1 
+
+   if-env version 1.0.4 
+
+   Webpack version 5.75.0 
+
+   @babel/plugin-proposal-object-rest-spread version 7.20.7 
 ## Questions
 Please send your questions by email:  BradM1492@gmail.com or visit [github/Boilermaker64](https://github.com/Boilermaker64).
