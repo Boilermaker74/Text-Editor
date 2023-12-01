@@ -19,6 +19,8 @@ This application is deployed to [Render](https://text-editor-jeni.onrender.com).
 This Application is Deployed to the internet using Render. The URL is https://text-editor-jeni.onrender.com/ The application has a client server folder structure.
 
 ![Alt text](./assets/1.png)
+
+When `npm run start` from the root directory the application starts up the backend and serve the client at local host 3000.
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Contributors
