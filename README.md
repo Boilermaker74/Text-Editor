@@ -41,7 +41,7 @@ The desktop icon after the install button is clicked.
 
 ![Alt text](./assets/7.png)
 
-![Alt text](./assets/8.png)
+![Alt text](./assets/9.png)
 
 ## Licenses
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
